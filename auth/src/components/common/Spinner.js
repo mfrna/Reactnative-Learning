@@ -16,4 +16,4 @@ const Styles = {
     justifyContent: 'center'
   }
 };
-export {Spinner};
+export { Spinner };
